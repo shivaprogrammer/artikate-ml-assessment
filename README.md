@@ -14,20 +14,18 @@ artikate-ml-assessment/
 ├── ANSWERS.md
 ├── DESIGN.md
 │
-
-│   ├── rag_pipeline.py
-│   └── sample_docs/
-│       ├── nda_sample.pdf
-│       ├── contract_sample.pdf
-│       └── policy_sample.pdf
+├── rag_pipeline.py
+├── train.py
+├── evaluate.py
+├── test_latency.py
 │
-├
-│   ├── train.py
-│   ├── evaluate.py
-│   └── test_latency.py
+├── sample_docs/
+│   ├── nda_sample.pdf
+│   ├── contract_sample.pdf
+│   └── policy_sample.pdf
 ```
 
----
+
 
 ## ⚙️ Setup Instructions
 

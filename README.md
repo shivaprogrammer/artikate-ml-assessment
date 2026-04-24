@@ -221,6 +221,6 @@ This project demonstrates:
 
 ## 📬 Submission
 
-Repository Link: https://github.com/<your-username>/artikate-ml-assessment
+Repository Link: https://github.com/shivaprogrammer/artikate-ml-assessment
 
 ---

@@ -14,14 +14,14 @@ artikate-ml-assessment/
 ├── ANSWERS.md
 ├── DESIGN.md
 │
-├── section2_rag/
+
 │   ├── rag_pipeline.py
 │   └── sample_docs/
 │       ├── nda_sample.pdf
 │       ├── contract_sample.pdf
 │       └── policy_sample.pdf
 │
-├── section3_classifier/
+├
 │   ├── train.py
 │   ├── evaluate.py
 │   └── test_latency.py
